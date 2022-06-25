@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Jireteniola
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Ninja YT ssa
+- 👀 please go to YouTube search for Ninja yt ssa please like and subscribe
 
-<!---
-Jireteniola/Jireteniola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Ninja yt ssa/Ninja yt ssa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
